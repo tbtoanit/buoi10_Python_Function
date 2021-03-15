@@ -8,3 +8,4 @@ list_moi = list(filter( (lambda a:a%2==0),list_goc) )
 # từng phần tử là tham số a, và a này sẽ mang đi kiểm tra xem có chia hết cho 2 hay không?
 # nếu a chia hết cho 2 thì sẽ được add vào interable và sau đó chuyển sang kiểu list
 print(list_moi)
+#test for pushing source code to GIT-khoa
