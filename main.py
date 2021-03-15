@@ -46,3 +46,4 @@ s = "toi-ten-la-ton" # list_name = ["toi","ten","la","ton"]
 list_name = s.split("-")
 print(list_name)
 #this is a new line for git
+#push this file back to GIT-Khoa
